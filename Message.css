@@ -1,0 +1,19 @@
+.msgpostn{
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    color: black;
+    font-family: sans-serif;
+}
+.message_user{
+    margin-left: auto;
+    color: white;
+    text-align: right !important;
+}
+.message_usercard{
+    color: blue !important;
+}
+
+.message_questcard{
+    color: gray !important;
+}

@@ -1,0 +1,23 @@
+.App{
+  text-align: center;
+
+}
+p{
+  font-style: italic;
+}
+button{
+  background-color: blueviolet;
+  color: white;
+  font-style: initial;
+  margin-top: 4px;
+}
+input{
+  border:black;
+  display: table-row-group;
+}
+h2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
